@@ -1,1 +1,2 @@
 chess==1.11.2
+tinygrad==0.11.0
