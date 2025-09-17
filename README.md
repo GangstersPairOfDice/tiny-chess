@@ -12,6 +12,7 @@ chess ai using tinygrad
 
  - system:
    - chess board
+     - find some python package or smth
    - take board state
      - encode board state
      - chess algebriac notation
@@ -48,3 +49,12 @@ i could introduce some RL finetuning to respond to 'strongest' moves
     - perhaps some synthetic data from a bot, which always plays the strongest moves
 
 shoutout joey diaz
+
+
+## installation
+
+clone repo, enter directory, and install requirements with:
+```
+pip install -r requirements.txt
+```
+
